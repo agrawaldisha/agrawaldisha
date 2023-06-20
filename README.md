@@ -1,11 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Disha Agrawal</h1>
-<h3 align="center">A passionate developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm4xbEmNEKACsM7ZuqknC1YYqGRziHZw3mvkeIxFjOeA&s">
+<h3 align="center">A passionate MERN Stack developer from India</h3>
+<img align="right" alt="coding" width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm4xbEmNEKACsM7ZuqknC1YYqGRziHZw3mvkeIxFjOeA&s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agrawaldisha&label=Profile%20views&color=0e75b6&style=flat" alt="agrawaldisha" /> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://agrawaldisha.github.io/resume/](https://agrawaldisha.github.io/resume/)
 
