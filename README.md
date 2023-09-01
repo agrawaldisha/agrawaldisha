@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Disha Agrawal</h1>
-<h3 align="center">A passionate MERN Stack developer from India</h3>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="coding" width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm4xbEmNEKACsM7ZuqknC1YYqGRziHZw3mvkeIxFjOeA&s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agrawaldisha&label=Profile%20views&color=0e75b6&style=flat" alt="agrawaldisha" /> </p>
