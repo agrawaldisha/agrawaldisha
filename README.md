@@ -98,6 +98,7 @@ _Tools:_ Java, Kafka, Spring Boot, Hibernate | _Database:_ PostgreSQL
 
 <h3 align="left">🏆 Certifications & Achievements</h3>
 
+- Professional data engineer - GCP
 - Google Cloud Certified: Cloud Digital Engineer  
 - Microsoft Certified: Azure Data Fundamentals  
 - LeetCode Problem Solver – 500+ problems solved  
