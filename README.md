@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently working as a **Data Engineer at GlobalLogic**  
 - 👨‍💻 Check out my projects and resume at [https://agrawaldisha.github.io/resume/](https://agrawaldisha.github.io/resume/)  
-- 💬 Ask me about **Big Data, Spark, Kafka, Azure Cloud & Data Pipelines**  
+- 💬 Ask me about **Big Data, Spark, Kafka, Google Cloud & Data Pipelines**  
 - 📫 Reach me at **agrawaldisha294@gmail.com**
 
 ---
