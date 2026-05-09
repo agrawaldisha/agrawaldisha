@@ -100,8 +100,6 @@ I specialize in designing scalable ETL pipelines and cloud-native data platforms
 
 ## GitHub stats
 
-## GitHub stats
-
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=agrawaldisha&layout=compact&langs_count=8&theme=default&hide_border=true&cache_seconds=1800" 
